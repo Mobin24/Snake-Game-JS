@@ -1,6 +1,7 @@
 # Snake-Game-JS
 A classic Snake Game built with Vanilla JS. Features real-time scoring, high-score persistence (localStorage), and a game timer. Clean, responsive UI with arrow key controls. 🐍🎮
 
+live host:https://relaxed-jelly-e80cf2.netlify.app/
 
 🐍 Classic Snake Game
 A clean, responsive, and interactive Snake Game built with HTML5, CSS3, and Vanilla JavaScript. This project demonstrates DOM manipulation, game loop logic, and local storage usage for high-score persistence.
